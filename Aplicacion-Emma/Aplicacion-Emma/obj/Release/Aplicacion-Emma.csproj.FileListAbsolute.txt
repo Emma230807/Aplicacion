@@ -1,0 +1,17 @@
+C:\Users\Emmanuel\Desktop\APP3\Aplicacion-Emma\Aplicacion-Emma\bin\Release\Aplicacion-Emma.exe.config
+C:\Users\Emmanuel\Desktop\APP3\Aplicacion-Emma\Aplicacion-Emma\bin\Release\Aplicacion-Emma.exe
+C:\Users\Emmanuel\Desktop\APP3\Aplicacion-Emma\Aplicacion-Emma\bin\Release\Aplicacion-Emma.pdb
+C:\Users\Emmanuel\Desktop\APP3\Aplicacion-Emma\Aplicacion-Emma\obj\Release\Aplicacion-Emma.csproj.AssemblyReference.cache
+C:\Users\Emmanuel\Desktop\APP3\Aplicacion-Emma\Aplicacion-Emma\obj\Release\Aplicacion_Emma.Form1.resources
+C:\Users\Emmanuel\Desktop\APP3\Aplicacion-Emma\Aplicacion-Emma\obj\Release\Aplicacion_Emma.Form2.resources
+C:\Users\Emmanuel\Desktop\APP3\Aplicacion-Emma\Aplicacion-Emma\obj\Release\Aplicacion_Emma.Form3.resources
+C:\Users\Emmanuel\Desktop\APP3\Aplicacion-Emma\Aplicacion-Emma\obj\Release\Aplicacion_Emma.Form4.resources
+C:\Users\Emmanuel\Desktop\APP3\Aplicacion-Emma\Aplicacion-Emma\obj\Release\Aplicacion_Emma.Form5.resources
+C:\Users\Emmanuel\Desktop\APP3\Aplicacion-Emma\Aplicacion-Emma\obj\Release\Aplicacion_Emma.Form6.resources
+C:\Users\Emmanuel\Desktop\APP3\Aplicacion-Emma\Aplicacion-Emma\obj\Release\Aplicacion_Emma.Form7.resources
+C:\Users\Emmanuel\Desktop\APP3\Aplicacion-Emma\Aplicacion-Emma\obj\Release\Aplicacion_Emma.FormAV.resources
+C:\Users\Emmanuel\Desktop\APP3\Aplicacion-Emma\Aplicacion-Emma\obj\Release\Aplicacion_Emma.Properties.Resources.resources
+C:\Users\Emmanuel\Desktop\APP3\Aplicacion-Emma\Aplicacion-Emma\obj\Release\Aplicacion-Emma.csproj.GenerateResource.cache
+C:\Users\Emmanuel\Desktop\APP3\Aplicacion-Emma\Aplicacion-Emma\obj\Release\Aplicacion-Emma.csproj.CoreCompileInputs.cache
+C:\Users\Emmanuel\Desktop\APP3\Aplicacion-Emma\Aplicacion-Emma\obj\Release\Aplicacion-Emma.exe
+C:\Users\Emmanuel\Desktop\APP3\Aplicacion-Emma\Aplicacion-Emma\obj\Release\Aplicacion-Emma.pdb
